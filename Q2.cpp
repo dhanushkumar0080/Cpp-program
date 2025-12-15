@@ -3,9 +3,9 @@
 using namespace std;
 int main()
 {
-    char ch;
-    cout<<"Enter Any Character : ";
-    cin>>ch;
-    cout<<ch;
+    string word;
+    cout<<"Enter Any word : ";
+    cin>>word;
+    cout<<word;
     return 0;
 }
