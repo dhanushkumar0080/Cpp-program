@@ -3,9 +3,8 @@
 using namespace std;
 int main()
 {
-    int age;
-    cout<<"Enter your Age : ";
-    cin>>age;
-    cout<<"Your Age is : "<<age;
-    return 0;
+    int num;
+    cout<<"enter a number:";
+    cin>>num;
+    cout<<num;
 }
